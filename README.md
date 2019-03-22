@@ -1,22 +1,29 @@
-# Website Showcase
 Website to showcase projects worked on.
 
--- Introduction
+### Introduction
 
-    A brief introduction to your website idea. State the goals of the project.
-    The values / benefits (tangible and intangible) this application can bring to a company/organization/end-user.
+   This website showcases the various projects that was undertaken and summarise each project.
+   By visiting this website users/visitors can assess the types of projects that was undertaken and if a user/visitor would need             
+   certain services.
 
--- Expected List of Features
+### Expected List of Features
 
-    A brief list of features that you expect your website to support.
-    Brief justifications for including these features.
+   Ability to showcase projects using visuals, a simple about, description of projects and contact details with skills utilised.
+   Skills portrayed here can be used on other projects a user/visitor needs.
 
--- Market Survey
+### Market Survey
 
-    Do a survey of the Web to find about five web sites that might have similar ideas as yours.
-    Briefly compare the features of these applications with your application idea.
+   - [ ] https://www.devonstank.com, 
+   - [ ] http://www.ximenavengoechea.com/, 
+   - [ ] http://ianenders.com/, 
+   - [ ] http://www.laurenicolesmith.com/,              
+   - [ ] http://www.adamhartwig.co.uk/
 
--- References
+   The sites listed share these features; showcases (portfolios), about, contact details and skills utilised.
 
-    Give references to any material / websites / books etc. relevant to your application idea
-    Give the links to the websites relevant to your idea, that you listed in the section above.
+### References
+
+   - https://www.freelancer.com/community/articles/must-visit-personal-portfolio-websites, 
+   - https://www.awwwards.com/sites/personal-portfolio-site, 
+   - https://blog.flipsnack.com/portfolio-website-vs-portfolio-book-which-is-preferred-now/
+   - https://www.smashingmagazine.com/2013/06/workflow-design-develop-modern-portfolio-website/
