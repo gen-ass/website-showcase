@@ -1,3 +1,5 @@
+# Website Showcase
+
 Website to showcase projects worked on.
 
 ### Introduction
@@ -13,11 +15,11 @@ Website to showcase projects worked on.
 
 ### Market Survey
 
-   - [ ] https://www.devonstank.com, 
-   - [ ] http://www.ximenavengoechea.com/, 
-   - [ ] http://ianenders.com/, 
-   - [ ] http://www.laurenicolesmith.com/,              
-   - [ ] http://www.adamhartwig.co.uk/
+   - [ ] https://www.devonstank.com 
+   - [ ] http://www.ximenavengoechea.com 
+   - [ ] http://ianenders.com 
+   - [ ] http://www.laurenicolesmith.com              
+   - [ ] http://www.adamhartwig.co.uk
 
    The sites listed share these features; showcases (portfolios), about, contact details and skills utilised.
 
@@ -25,5 +27,5 @@ Website to showcase projects worked on.
 
    - https://www.freelancer.com/community/articles/must-visit-personal-portfolio-websites, 
    - https://www.awwwards.com/sites/personal-portfolio-site, 
-   - https://blog.flipsnack.com/portfolio-website-vs-portfolio-book-which-is-preferred-now/
-   - https://www.smashingmagazine.com/2013/06/workflow-design-develop-modern-portfolio-website/
+   - https://blog.flipsnack.com/portfolio-website-vs-portfolio-book-which-is-preferred-now
+   - https://www.smashingmagazine.com/2013/06/workflow-design-develop-modern-portfolio-website
