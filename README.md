@@ -36,13 +36,13 @@ Website to showcase projects worked on.
 
 ### Introduction
 
- Give a brief introduction to your project and the list of features. Summarize in a few sentences what you proposed in the    
- ideation report.
  **The website highlight work done by the author.*** The website will have a **introduction** about the author, will **list the 
  projects** that was worked on, will have a **section about skills or technologies utilised** and as section to **contact** the 
  author. 
 
 ### User Interface Design and Prototype
+
+ ![Image of wireframe](https://raw.githubusercontent.com/gen-ass/website-showcase/master/wireframe.jpg)
 
  Providing a simple and clear layout to users provides context to understand the purpose and goal of the site at one glance. If 
  the site provides clarity at first glance then you achieve engagement early. A user will more likely navigate and read through 
@@ -54,9 +54,8 @@ Website to showcase projects worked on.
 
 ### Navigation Structure
 
- Give a brief overview of the navigation structure for your application.
- Briefly indicate a typical flow of your application in terms of user experience. You can use any way of representing the flow.   
- You can also construct a prototype using one of the prototyping tools to illustrate this.
+ User will access site from one home page using simple navigation in the header of the site
+ ![Image of data-flow](https://raw.githubusercontent.com/gen-ass/website-showcase/master/dataflow.jpg)
 
 ### References
 
