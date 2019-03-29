@@ -47,9 +47,10 @@ Website to showcase projects worked on.
  Providing a simple and clear layout to users provides context to understand the purpose and goal of the site at one glance. If 
  the site provides clarity at first glance then you achieve engagement early. A user will more likely navigate and read through 
  your site. Simplicity and clarity of the layout will assist in conveying meaning. Each feature will be supportive of the 
- global purpose of the site, that is the author displays their skills to the audience. The audience can be interested in the    
- technology utilised, can be looking for help with their projects, can be general user seeking advice. Providing a display of t
- the skills and projects completed and the ability to contact the author will achieve the main goal of the site.      
+ global purpose of the site, that is the author display their skills to the audience. The audience can have various reasons for    
+ visiting the site from a general interest in technology utilised, looking for help with their projects or a general user   
+ seeking advice. Showcasing skills and projects with the ability to contact the author, will enhance the main 
+ goal of the site.
  
 
 ### Navigation Structure
