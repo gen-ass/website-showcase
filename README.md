@@ -36,7 +36,7 @@ Website to showcase projects worked on.
 
 ### Introduction
 
- **The website highlight work done by the author.*** The website will have a **introduction** about the author, will **list the 
+ **The website highlight work done by the author.** The website will have a **introduction** about the author, will **list the 
  projects** that was worked on, will have a **section about skills or technologies utilised** and as section to **contact** the 
  author. 
 
